@@ -7,7 +7,7 @@ experience assumed or required.
 
 ## Proof of Completion
 
-![completion picture](https://github.com/bwinterton/clojure-koans/raw/master/completion.png "Woot woot!")
+![completion picture](https://github.com/bwinterton/clojure-koans/raw/master/completed.png "Woot woot!")
 
 ### Credits
 
